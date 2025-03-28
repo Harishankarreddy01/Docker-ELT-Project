@@ -1,4 +1,4 @@
-# Custom ELT Project
+# 🚀 Docker-ELT-Project  
 
 This repository contains a custom Extract, Load, Transform (ELT) project that utilizes Docker, Airbyte, Airflow, dbt, and PostgreSQL to demonstrate a simple ELT process.
 
